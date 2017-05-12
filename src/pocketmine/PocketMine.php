@@ -74,7 +74,7 @@ namespace pocketmine {
 
 	const VERSION = "1.2.1";
 	const API_VERSION = "3.0.1";
-	const CODENAME = "RottenApple";
+	const CODENAME = "PocketFish";
 
 	/*
 	 * Startup code. Do not look at it, it may harm you.
