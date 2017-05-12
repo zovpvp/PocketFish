@@ -1,2 +1,2 @@
 # PocketFish
-test
+軽量化したsrcです。
